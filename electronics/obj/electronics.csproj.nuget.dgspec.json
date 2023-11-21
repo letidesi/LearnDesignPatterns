@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tvdwo\\OneDrive\\Área de Trabalho\\LearnDesignPatterns\\electronics\\electronics.csproj": {}
+    "c:\\Users\\tvdwo\\OneDrive\\Área de Trabalho\\LearnDesignPatterns\\electronics\\electronics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tvdwo\\OneDrive\\Área de Trabalho\\LearnDesignPatterns\\electronics\\electronics.csproj": {
+    "c:\\Users\\tvdwo\\OneDrive\\Área de Trabalho\\LearnDesignPatterns\\electronics\\electronics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tvdwo\\OneDrive\\Área de Trabalho\\LearnDesignPatterns\\electronics\\electronics.csproj",
+        "projectUniqueName": "c:\\Users\\tvdwo\\OneDrive\\Área de Trabalho\\LearnDesignPatterns\\electronics\\electronics.csproj",
         "projectName": "electronics",
-        "projectPath": "C:\\Users\\tvdwo\\OneDrive\\Área de Trabalho\\LearnDesignPatterns\\electronics\\electronics.csproj",
+        "projectPath": "c:\\Users\\tvdwo\\OneDrive\\Área de Trabalho\\LearnDesignPatterns\\electronics\\electronics.csproj",
         "packagesPath": "C:\\Users\\tvdwo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tvdwo\\OneDrive\\Área de Trabalho\\LearnDesignPatterns\\electronics\\obj\\",
+        "outputPath": "c:\\Users\\tvdwo\\OneDrive\\Área de Trabalho\\LearnDesignPatterns\\electronics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
